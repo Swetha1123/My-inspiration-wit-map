@@ -1,0 +1,27 @@
+.line{
+     height: 6px ;
+    background-color: black ;
+    width: 480px ;
+    margin: 8px auto ;
+}
+body{
+    text-align: center ;
+    background-color: aqua ;
+}
+img{
+    width: 200px ;
+    height: 200px ;
+    margin: 10px;
+    transition: transform .2s ;
+}
+img:hover{
+      transform: scale(0.9)
+   
+}
+h1{
+   font-family: 'Open Sans Condensed', sans-serif;
+}
+.contact{
+    background-color:firebrick;
+}
+  
